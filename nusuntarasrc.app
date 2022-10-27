@@ -1,6 +1,6 @@
 {
 
-"newVersion": "35",
+"newVersion": "1.0.2",
 
 "apkUrl": "https://dropmb.com/RxE2p",
 
