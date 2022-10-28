@@ -2,7 +2,7 @@
 
 "newVersion": "1.0.2",
 
-"apkUrl": "https://dropmb.com/RxE2p",
+"apkUrl": "https://www.pinoytechgallery.com/2022/09/librevpnpro.html",
 
 "versionNotes":"
 
