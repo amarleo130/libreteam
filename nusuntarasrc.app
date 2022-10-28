@@ -1,16 +1,16 @@
 {
 
-"newVersion": "1.0.2",
+"newVersion": "1.0.0",
 
 "apkUrl": "https://www.pinoytechgallery.com/2022/09/librevpnpro.html",
 
 "versionNotes":"
 
-• Config Extension Change
+• Optimize App
 
 • Some Bugs Fixed
 
-• New Little Ui
+• Fix Force Stop To Other Lower Device
 
 "
 
