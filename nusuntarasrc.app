@@ -2,7 +2,7 @@
 
 "newVersion": "1.0.0",
 
-"apkUrl": "https://www.pinoytechgallery.com/2022/09/librevpnpro.html",
+"apkUrl": "https://play.google.com/store/apps/details?id=com.libre.vpn.pro",
 
 "versionNotes":"
 
