@@ -1,6 +1,6 @@
 {
 
-"newVersion": "1.0.0",
+"newVersion": "1.1.19",
 
 "apkUrl": "https://play.google.com/store/apps/details?id=com.libre.vpn.pro",
 
