@@ -1,6 +1,6 @@
 {
 
-"newVersion": "1.1.20",
+"newVersion": "1.0.0",
 
 "apkUrl": "https://www.mediafire.com/file/mxut7p3lot7169j/app-release.apk/file",
 
