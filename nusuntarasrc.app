@@ -1,8 +1,8 @@
 {
 
-"newVersion": "1.0.0",
+"newVersion": "1.1.22",
 
-"apkUrl": "https://www.mediafire.com/file/mxut7p3lot7169j/app-release.apk/file",
+"apkUrl": "https://d.apkpure.com/b/APK/com.libre.vpn.pro?version=latest",
 
 "versionNotes":"
 
