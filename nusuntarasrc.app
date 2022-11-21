@@ -1,6 +1,6 @@
 {
 
-"newVersion": "1.1.22",
+"newVersion": "1.1.23",
 
 "apkUrl": "https://d.apkpure.com/b/APK/com.libre.vpn.pro?version=latest",
 
